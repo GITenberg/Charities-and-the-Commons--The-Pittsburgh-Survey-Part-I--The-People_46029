@@ -1,0 +1,28 @@
+_repo: Charities-and-the-Commons--The-Pittsburgh-Survey-Part-I--The-People_46029
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46029-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pittsburgh (Pa.) -- Social conditions'
+- !lcc 'HN'
+- !lcsh 'Social surveys -- Pennsylvania -- Pittsburgh'
+- !lcsh 'Working class -- Pennsylvania -- Pittsburgh'
+- !lcsh 'Civic improvement -- Pennsylvania -- Pittsburgh'
+title: 'Charities and the Commons: The Pittsburgh Survey, Part I. The People'
+url: http://www.gutenberg.org/ebooks/46029
